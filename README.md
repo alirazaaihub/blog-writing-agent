@@ -240,7 +240,7 @@ pip install langchain langchain-groq langchain-community langgraph pydantic duck
 Built by **Ali raza** — an 18-year-old self-taught AI developer from Pakistan.  
 This is part of my Agentic AI portfolio built using LangChain, LangGraph, and Groq.
 
-📌 [LinkedIn](https://www.linkedin.com/in/ali-raza-7124a0403/) • [GitHub](https://github.com/alirazaaihub)
+📌 [LinkedIn](www.linkedin.com/in/alirazaaihub) • [GitHub](https://github.com/alirazaaihub)
 
 ---
 
